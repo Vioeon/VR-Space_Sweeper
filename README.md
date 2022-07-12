@@ -9,6 +9,6 @@ VR 기기를 움직여 무작위로 날아오는 유성체를 피하고 구글 �
 - 우주선을 업그레이드 할 수 있다.  
 <img width="100%" src="https://user-images.githubusercontent.com/31684326/178379318-d61b2b25-f83c-438a-aa9c-87bb7b033bb1.jpg">   
 <br>
-- 유성체를 피해 우주잔해를 청소하여 업그레이드 포인트를 획득할 수 있다.
+- 유성체를 피해 우주잔해를 청소하여 업그레이드 포인트를 획득할 수 있다.  
 <img width="100%" src="https://user-images.githubusercontent.com/31684326/178379397-082342a6-c2cb-4da2-9142-4930da32ce11.jpg">   
 <br>
